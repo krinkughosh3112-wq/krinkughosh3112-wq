@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinku Ghosh
 
-###  AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
+### 🚀 AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
 
 I am passionate about building intelligent systems using data and AI.  
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
@@ -22,14 +22,19 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ## 🎓 Certifications
 - 📜 **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
+- 📜 **Machine Learning with Python**
 
 ---
 
 ## 🚀 Projects
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Customer Churn Prediction](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using ML models | Python, Scikit-learn, XGBoost |
-| [Sentiment Analysis NLP](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment with Streamlit app | Python, NLTK, Streamlit |
+| [Customer Churn Prediction](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest & XGBoost with preprocessing pipeline | Python, Scikit-learn, XGBoost, Pandas |
+| [Sentiment Analysis NLP](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction & download | Python, NLTK, Scikit-learn, Streamlit |
+| [AI Data Storyteller](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart Analytics Dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) & PDF report export | Python, Streamlit, Pandas, Scikit-learn, GPT-2, ReportLab, Plotly |
+| [SafeGuard AI](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | AI-powered Construction Site Safety Monitor that detects safety violations in real-time using YOLOv8 object detection | Python, YOLOv8, OpenCV, Computer Vision |
+| [Global Space Agency Dashboard](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA & CASC — covers success rates, rocket insights, mission trends & launch locations | Power BI, DAX, Power Query |
 
 ---
 
@@ -41,6 +46,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **ML / DL Frameworks**
 
