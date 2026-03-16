@@ -1,31 +1,31 @@
 # 👋 Hi, I'm Rinku Ghosh
 
-### 🚀 AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
+###  AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
 
 I am passionate about building intelligent systems using data and AI.  
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
-- 🌱 I'm currently learning **Deep Learning & Large Language Models (LLMs)**
-- 💬 Ask me about **Python, Machine Learning, NLP, Data Science**
-- 📫 Reach me at **krinkughosh3112@gmail.com**
-- ⚡ Fun fact: I love turning raw data into real insights!
+-  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
+- Ask me about **Python, Machine Learning, NLP, Data Science**
+-  Reach me at **krinkughosh3112@gmail.com**
+-  Fun fact: I love turning raw data into real insights!
 
 ---
 
-## 🌐 Socials
+##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-rinku-ghosh3112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krinkughosh3112)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krinkughosh3112@gmail.com)
 
 ---
 
-## 🎓 Certifications
-- 📜 **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
-- 📜 **Machine Learning with Python**
+## Certifications
+-  **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
+
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -37,7 +37,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages & Tools**
 
@@ -70,7 +70,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rinku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krinkughosh3112-wq&show_icons=true&theme=radical)
 
@@ -80,12 +80,12 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=krinkughosh3112-wq&theme=radical&row=1&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
-## ✍️ Random Dev Quote
+##  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
