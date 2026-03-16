@@ -5,11 +5,10 @@
 I am passionate about building intelligent systems using data and AI.  
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
-- 🔭 I'm currently working on **Customer Churn Prediction & Sentiment Analysis**
-- 🌱 I'm currently learning **Deep Learning & Large Language Models (LLMs)**
-- 💬 Ask me about **Python, Machine Learning, NLP, Data Science**
-- 📫 Reach me at **krinkughosh3112@gmail.com**
-- ⚡ Fun fact: I love turning raw data into real insights!
+-  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
+-  Ask me about **Python, Machine Learning, NLP, Data Science**
+-  Reach me at **krinkughosh3112@gmail.com**
+-  Fun fact: I love turning raw data into real insights!
 
 ---
 
@@ -22,7 +21,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ## 🎓 Certifications
 - 📜 **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
-- 📜 **Machine Learning with Python**
+  
 
 ---
 
@@ -30,15 +29,15 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Customer Churn Prediction](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest & XGBoost with preprocessing pipeline | Python, Scikit-learn, XGBoost, Pandas |
+| [SafeGuard AI](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | AI-powered Construction Site Safety Monitor that detects safety violations in real-time using YOLOv8 object detection | Python, YOLOv8, OpenCV, Computer Vision |
 | [Sentiment Analysis NLP](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction & download | Python, NLTK, Scikit-learn, Streamlit |
 | [AI Data Storyteller](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart Analytics Dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) & PDF report export | Python, Streamlit, Pandas, Scikit-learn, GPT-2, ReportLab, Plotly |
-| [SafeGuard AI](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | AI-powered Construction Site Safety Monitor that detects safety violations in real-time using YOLOv8 object detection | Python, YOLOv8, OpenCV, Computer Vision |
+| [Customer Churn Prediction](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest & XGBoost with preprocessing pipeline | Python, Scikit-learn, XGBoost, Pandas |
 | [Global Space Agency Dashboard](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA & CASC — covers success rates, rocket insights, mission trends & launch locations | Power BI, DAX, Power Query |
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages & Tools**
 
