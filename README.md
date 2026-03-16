@@ -1,8 +1,9 @@
-# Hi there 👋 I'm Rinku Ghosh
+# 👋 Hi, I'm Rinku Ghosh
 
-## 💫 About Me
-AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP  
-Passionate about building intelligent systems and solving real-world problems using data.
+### 🚀 AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
+
+I am passionate about building intelligent systems using data and AI.  
+I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
 - 🔭 I'm currently working on **Customer Churn Prediction & Sentiment Analysis**
 - 🌱 I'm currently learning **Deep Learning & Large Language Models (LLMs)**
@@ -19,6 +20,12 @@ Passionate about building intelligent systems and solving real-world problems us
 
 ---
 
+## 🎓 Certifications
+- 📜 **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
+- 📜 **Machine Learning with Python**
+
+---
+
 ## 🚀 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -28,17 +35,34 @@ Passionate about building intelligent systems and solving real-world problems us
 ---
 
 ## 💻 Tech Stack
+
+**Languages & Tools**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**ML / DL Frameworks**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data & Visualization**
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
