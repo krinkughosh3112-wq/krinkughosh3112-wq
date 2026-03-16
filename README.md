@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinku Ghosh
 
-### 🚀 AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
+###  AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
 
 I am passionate about building intelligent systems using data and AI.  
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
@@ -22,7 +22,6 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ## 🎓 Certifications
 - 📜 **Post Graduate Program in Data Science & Analytics** – Imarticus Learning
-- 📜 **Machine Learning with Python**
 
 ---
 
