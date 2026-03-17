@@ -6,7 +6,6 @@ I am passionate about building intelligent systems using data and AI.
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
 -  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
-- Ask me about **Python, Machine Learning, NLP, Data Science**
 -  Reach me at **krinkughosh3112@gmail.com**
 -  Fun fact: I love turning raw data into real insights!
 
