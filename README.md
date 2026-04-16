@@ -79,9 +79,6 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-##  GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=krinkughosh3112-wq&theme=radical&row=1&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
 ---
 
 ##  Random Dev Quote
