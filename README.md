@@ -80,9 +80,18 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-- 🎓 **Post Graduate Program in Data Science & Analytics** — Imarticus Learning
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🥉 | **Top 3 — Inter-Cohort Hackathon** · Employee Performance Prediction | Imarticus Learning |
+| 🎓 | **Post Graduate Program in Data Science & Analytics** | Imarticus Learning |
+| 🤖 | **Data Science Internship** · ML, Deep Learning & Generative AI | Imarticus Learning |
+| 🏢 | **Data Analytics Job Simulation** · Deloitte Australia | Forage |
+| 🧠 | **Claude 101 — Certificate of Completion** | Anthropic |
+| 🚀 | **LLM Deployment** · Introducing Generative AI and Large Language Models | — |
+| 💡 | **AI Fluency Framework & Foundations** · Certificate of Completion | — |
+| ✍️ | **Data Science Blogathon Participant** · Recognised for technical writing & AI content | Analytics Vidhya |
 
 ---
 
