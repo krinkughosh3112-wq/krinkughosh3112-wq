@@ -19,7 +19,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 </div>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
@@ -34,7 +34,7 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -93,20 +93,12 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 <div align="center">
 
-![Rinku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krinkughosh3112-wq&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=krinkughosh3112-wq&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krinkughosh3112-wq&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=krinkughosh3112-wq&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ## 💬 Random Dev Quote
