@@ -7,9 +7,9 @@
 I am passionate about building intelligent systems using data and AI.  
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
--  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
--  Reach me at **krinkughosh3112@gmail.com**
--  Fun fact: I love turning raw data into real insights!
+ I'm currently learning **Deep Learning & Large Language Models (LLMs)**
+ Reach me at **krinkughosh3112@gmail.com**
+ Fun fact: I love turning raw data into real insights!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-rinku-ghosh3112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krinkughosh3112)
@@ -78,14 +78,14 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
-| 🥉 | **Top 3 — Inter-Cohort Hackathon** · Employee Performance Prediction | Imarticus Learning |
-| 🎓 | **Post Graduate Program in Data Science & Analytics** | Imarticus Learning |
-| 🤖 | **Data Science Internship** · ML, Deep Learning & Generative AI | Imarticus Learning |
-| 🏢 | **Data Analytics Job Simulation** · Deloitte Australia | Forage |
-| 🧠 | **Claude 101 — Certificate of Completion** | Anthropic |
-| 🚀 | **LLM Deployment** · Introducing Generative AI and Large Language Models | — |
-| 💡 | **AI Fluency Framework & Foundations** · Certificate of Completion | — |
-| ✍️ | **Data Science Blogathon Participant** · Recognised for technical writing & AI content | Analytics Vidhya |
+|  **Top 3 — Inter-Cohort Hackathon** · Employee Performance Prediction | Imarticus Learning |
+|  **Post Graduate Program in Data Science & Analytics** | Imarticus Learning |
+|  **Data Science Internship** · ML, Deep Learning & Generative AI | Imarticus Learning |
+|  **Data Analytics Job Simulation** · Deloitte Australia | Forage |
+|  **Claude 101 — Certificate of Completion** | Anthropic |
+|  **LLM Deployment** · Introducing Generative AI and Large Language Models | — |
+|  **AI Fluency Framework & Foundations** · Certificate of Completion | — |
+|  **Data Science Blogathon Participant** · Recognised for technical writing & AI content | Analytics Vidhya |
 
 ---
 
