@@ -8,7 +8,9 @@ I am passionate about building intelligent systems using data and AI.
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
+ 
  Reach me at **krinkughosh3112@gmail.com**
+ 
  Fun fact: I love turning raw data into real insights!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-rinku-ghosh3112/)
