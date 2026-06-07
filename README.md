@@ -20,28 +20,18 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ---
 
-## 🧠 About Me
-
-- 🏥 Currently building **agentic AI systems** for real-world clinical and enterprise use cases
-- 🔭 Deep interest in **LLM agent loops, tool use, RAG, and AI safety**
-- 🌱 Continuously learning **multimodal AI, fine-tuning, and production ML systems**
-- 💡 I turn messy, unstructured data into intelligent, safe, and useful AI products
-- 📫 Reach me at **krinkughosh3112@gmail.com**
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 🏥 | [**Dscribe — AI Discharge Summary Agent**](https://github.com/krinkughosh3112-wq/dscribe-ai-agent) | Agentic AI that reads 71-page messy clinical PDFs and produces structured discharge summaries — with a real agent loop, no-fabrication guardrail, conflict detection, medication reconciliation, and Part 2 learning from simulated doctor edits | Python · Groq · Llama 3.1 · Streamlit · Tesseract OCR · Plotly |
-| 🤖 | [**JobPilot AI**](https://github.com/krinkughosh3112-wq/JobPilot-AI) | Agentic job search platform with MCP server integration — searches, filters, and ranks jobs autonomously | Python · MCP · Agentic AI |
-| 📄 | [**AI Resume Analyzer**](https://github.com/krinkughosh3112-wq/AI-Resume-Analyzer) | AI-powered resume analyzer with ATS scoring, skill gap analysis, and structured feedback via prompt engineering using Gemini 2.5 Flash | Python · Google Gemini · Streamlit |
-| 🦺 | [**SafeGuard AI**](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | Real-time construction site safety monitor — detects PPE violations (no helmet, no vest) using YOLOv8 object detection | Python · YOLOv8 · OpenCV · Computer Vision |
-| 📊 | [**AI Data Storyteller**](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart analytics dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) and PDF report export | Python · Streamlit · Pandas · Scikit-learn · GPT-2 · Plotly |
-| 💬 | [**Sentiment Analysis NLP**](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction and download | Python · NLTK · Scikit-learn · Streamlit |
-| 📉 | [**Customer Churn Prediction**](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest and XGBoost with a full preprocessing pipeline | Python · Scikit-learn · XGBoost · Pandas |
-| 🚀 | [**Global Space Agency Dashboard**](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA and CASC — success rates, rocket insights, mission trends, launch locations | Power BI · DAX · Power Query |
+| | [**Dscribe — AI Discharge Summary Agent**](https://github.com/krinkughosh3112-wq/dscribe-ai-agent) | Agentic AI that reads 71-page messy clinical PDFs and produces structured discharge summaries — with a real agent loop, no-fabrication guardrail, conflict detection, medication reconciliation, and Part 2 learning from simulated doctor edits | Python · Groq · Llama 3.1 · Streamlit · Tesseract OCR · Plotly |
+|  | [**JobPilot AI**](https://github.com/krinkughosh3112-wq/JobPilot-AI) | Agentic job search platform with MCP server integration — searches, filters, and ranks jobs autonomously | Python · MCP · Agentic AI |
+|  | [**AI Resume Analyzer**](https://github.com/krinkughosh3112-wq/AI-Resume-Analyzer) | AI-powered resume analyzer with ATS scoring, skill gap analysis, and structured feedback via prompt engineering using Gemini 2.5 Flash | Python · Google Gemini · Streamlit |
+|  | [**SafeGuard AI**](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | Real-time construction site safety monitor — detects PPE violations (no helmet, no vest) using YOLOv8 object detection | Python · YOLOv8 · OpenCV · Computer Vision |
+|  | [**AI Data Storyteller**](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart analytics dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) and PDF report export | Python · Streamlit · Pandas · Scikit-learn · GPT-2 · Plotly |
+|  | [**Sentiment Analysis NLP**](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction and download | Python · NLTK · Scikit-learn · Streamlit |
+|  | [**Customer Churn Prediction**](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest and XGBoost with a full preprocessing pipeline | Python · Scikit-learn · XGBoost · Pandas |
+| | [**Global Space Agency Dashboard**](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA and CASC — success rates, rocket insights, mission trends, launch locations | Power BI · DAX · Power Query |
 
 ---
 
