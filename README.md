@@ -22,20 +22,20 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 ##  Featured Projects
 
-| # | Project | Description | Tech Stack |
+|   Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| | [**Dscribe — AI Discharge Summary Agent**](https://github.com/krinkughosh3112-wq/dscribe-ai-agent) | Agentic AI that reads 71-page messy clinical PDFs and produces structured discharge summaries — with a real agent loop, no-fabrication guardrail, conflict detection, medication reconciliation, and Part 2 learning from simulated doctor edits | Python · Groq · Llama 3.1 · Streamlit · Tesseract OCR · Plotly |
-|  | [**JobPilot AI**](https://github.com/krinkughosh3112-wq/JobPilot-AI) | Agentic job search platform with MCP server integration — searches, filters, and ranks jobs autonomously | Python · MCP · Agentic AI |
-|  | [**AI Resume Analyzer**](https://github.com/krinkughosh3112-wq/AI-Resume-Analyzer) | AI-powered resume analyzer with ATS scoring, skill gap analysis, and structured feedback via prompt engineering using Gemini 2.5 Flash | Python · Google Gemini · Streamlit |
-|  | [**SafeGuard AI**](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | Real-time construction site safety monitor — detects PPE violations (no helmet, no vest) using YOLOv8 object detection | Python · YOLOv8 · OpenCV · Computer Vision |
-|  | [**AI Data Storyteller**](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart analytics dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) and PDF report export | Python · Streamlit · Pandas · Scikit-learn · GPT-2 · Plotly |
-|  | [**Sentiment Analysis NLP**](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction and download | Python · NLTK · Scikit-learn · Streamlit |
-|  | [**Customer Churn Prediction**](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest and XGBoost with a full preprocessing pipeline | Python · Scikit-learn · XGBoost · Pandas |
-| | [**Global Space Agency Dashboard**](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA and CASC — success rates, rocket insights, mission trends, launch locations | Power BI · DAX · Power Query |
+|  [**Dscribe — AI Discharge Summary Agent**](https://github.com/krinkughosh3112-wq/dscribe-ai-agent) | Agentic AI that reads 71-page messy clinical PDFs and produces structured discharge summaries — with a real agent loop, no-fabrication guardrail, conflict detection, medication reconciliation, and Part 2 learning from simulated doctor edits | Python · Groq · Llama 3.1 · Streamlit · Tesseract OCR · Plotly |
+|   [**JobPilot AI**](https://github.com/krinkughosh3112-wq/JobPilot-AI) | Agentic job search platform with MCP server integration — searches, filters, and ranks jobs autonomously | Python · MCP · Agentic AI |
+|   [**AI Resume Analyzer**](https://github.com/krinkughosh3112-wq/AI-Resume-Analyzer) | AI-powered resume analyzer with ATS scoring, skill gap analysis, and structured feedback via prompt engineering using Gemini 2.5 Flash | Python · Google Gemini · Streamlit |
+|   [**SafeGuard AI**](https://github.com/krinkughosh3112-wq/SafeGuard-AI) | Real-time construction site safety monitor — detects PPE violations (no helmet, no vest) using YOLOv8 object detection | Python · YOLOv8 · OpenCV · Computer Vision |
+|   [**AI Data Storyteller**](https://github.com/krinkughosh3112-wq/AI-Data-Storyteller) | Smart analytics dashboard — upload any CSV for automated EDA, outlier detection, ML predictions, AI insights (GPT-2) and PDF report export | Python · Streamlit · Pandas · Scikit-learn · GPT-2 · Plotly |
+|   [**Sentiment Analysis NLP**](https://github.com/krinkughosh3112-wq/sentiment-analysis-nlp) | IMDB movie review sentiment classifier with Streamlit web app — supports bulk CSV prediction and download | Python · NLTK · Scikit-learn · Streamlit |
+|   [**Customer Churn Prediction**](https://github.com/krinkughosh3112-wq/customer-churn-prediction) | Predict telecom customer churn using Logistic Regression, Random Forest and XGBoost with a full preprocessing pipeline | Python · Scikit-learn · XGBoost · Pandas |
+|  [**Global Space Agency Dashboard**](https://github.com/krinkughosh3112-wq/Global-Space-Agency-Dashboard) | Interactive Power BI dashboard analyzing 1958–2020 space missions across NASA, ISRO, ESA, JAXA and CASC — success rates, rocket insights, mission trends, launch locations | Power BI · DAX · Power Query |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -79,14 +79,14 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, and D
 
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
-| 🥉 | **Top 3 — Inter-Cohort Hackathon** · Employee Performance Prediction | Imarticus Learning |
-| 🎓 | **Post Graduate Program in Data Science & Analytics** | Imarticus Learning |
-| 🤖 | **Data Science Internship** · ML, Deep Learning & Generative AI | Imarticus Learning |
-| 🏢 | **Data Analytics Job Simulation** · Deloitte Australia | Forage |
-| 🧠 | **Claude 101 — Certificate of Completion** | Anthropic |
-| 🚀 | **LLM Deployment** · Introducing Generative AI and Large Language Models | — |
-| 💡 | **AI Fluency Framework & Foundations** · Certificate of Completion | — |
-| ✍️ | **Data Science Blogathon Participant** · Recognised for technical writing & AI content | Analytics Vidhya |
+|  **Top 3 — Inter-Cohort Hackathon** · Employee Performance Prediction | Imarticus Learning |
+|  **Post Graduate Program in Data Science & Analytics** | Imarticus Learning |
+| **Data Science Internship** · ML, Deep Learning & Generative AI | Imarticus Learning |
+|  **Data Analytics Job Simulation** · Deloitte Australia | Forage |
+|  **Claude 101 — Certificate of Completion** | Anthropic |
+|  **LLM Deployment** · Introducing Generative AI and Large Language Models | — |
+|  **AI Fluency Framework & Foundations** · Certificate of Completion | — |
+|  **Data Science Blogathon Participant** · Recognised for technical writing & AI content | Analytics Vidhya |
 
 ---
 
