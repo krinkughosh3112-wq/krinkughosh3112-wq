@@ -2,9 +2,14 @@
 
 # 👋 Hi, I'm Rinku Ghosh
 
-### 🤖 AI Engineer | Agentic AI · LLMs · Computer Vision · NLP
+###  AI & Data Science Enthusiast | Python | Machine Learning | Deep Learning | NLP
 
-*Building intelligent systems that solve real clinical, business, and productivity problems.*
+I am passionate about building intelligent systems using data and AI.  
+I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
+
+-  I'm currently learning **Deep Learning & Large Language Models (LLMs)**
+-  Reach me at **krinkughosh3112@gmail.com**
+-  Fun fact: I love turning raw data into real insights!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-rinku-ghosh3112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krinkughosh3112)
